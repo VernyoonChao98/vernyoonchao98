@@ -4,11 +4,11 @@ I am a Full Stack Engineer with a drive to expand my knowledge within the tech i
 
 ## Checkout my projects
 
-🎧 <a href="https://beatscloud.herokuapp.com/">Beatscloud</a>
+🎧 <a href="https://beatscloud.herokuapp.com/">Beatscloud</a> A SoundCloud clone for users to express themselves through uploading their own music and creating a community by commenting on songs.
 
-🔊 <a href="https://komication.herokuapp.com/">Komication</a>
+🔊 <a href="https://komication.herokuapp.com/">Komication</a> A discord clone for users to communicate with one another and create a community.
 
-📘 Friendbook
+📘 <a href="https://thefriendbook.herokuapp.com/">Friendbook</a> A clone of Facebook where users can come interact with other users to create new friends.
 
 
 ## Languages and Tools
