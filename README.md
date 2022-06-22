@@ -6,7 +6,7 @@ I am a Full Stack Engineer with a drive to expand my knowledge within the tech i
 
 🎧 <a href="https://beatscloud.herokuapp.com/">Beatscloud</a>
 
-🔊 Komication 
+🔊 <a href="[https://beatscloud.herokuapp.com/](https://komication.herokuapp.com/)">Komication</a>
 
 📘 Friendbook
 
