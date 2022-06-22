@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a Full Stack Engineer with a drive to expand my knowledge within the tech industry.
+
+## Checkout my projects
+
+🎧 Beatscloud
+
+🔊 Komication 
+
+📘 Friendbook
+
 
 ## Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
