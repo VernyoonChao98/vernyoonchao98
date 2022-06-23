@@ -36,3 +36,5 @@ I am a Full Stack Engineer with a drive to expand my knowledge within the tech i
 
 
 ![Vernyoon Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernyoonchao98&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernyoonchao98&layout=compact)](https://github.com/vernyoonchao98/github-readme-stats)
