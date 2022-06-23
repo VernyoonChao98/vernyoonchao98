@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack Engineer with a drive to expand my knowledge within the tech industry. A few things about myself, I love playing video games. I have played games since I was a child when my siblings first introduced to me the nintendo 64. My favorite game was definitely Legends of Zelda Ocarina of Time. I also love watching competitive esports and am a competitive gamer myself.
+I am a Full Stack Engineer with a drive to expand my knowledge within the tech industry. A few things about myself, I love playing video games. I have played games since I was a young boy when my siblings first introduced to me the nintendo 64. My favorite game was definitely Legends of Zelda Ocarina of Time. I also love watching competitive esports and am a competitive gamer myself.
 
 ## Checkout my projects
 
