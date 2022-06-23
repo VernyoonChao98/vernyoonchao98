@@ -35,4 +35,4 @@ I am a Full Stack Engineer with a drive to expand my knowledge within the tech i
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-![Vernyoon Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernyoonchao98&theme=dark&show_icons=true)
+![Vernyoon Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernyoonchao98&theme=tokyonight&show_icons=true)
