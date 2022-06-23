@@ -33,3 +33,6 @@ I am a Full Stack Engineer with a drive to expand my knowledge within the tech i
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+![Vernyoon Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernyoonchao98&theme=dark&show_icons=true)
